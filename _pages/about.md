@@ -2,9 +2,7 @@
 permalink: /
 title: "Qilong (Alex) Zhao"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 Hi! I am **Qilong (Alex) Zhao**, an M.S. student in Computer Science at **Emory University**.  
