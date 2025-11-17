@@ -38,6 +38,13 @@
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
+      {% if author.openreview %}
+        <li>
+          <a href="{{ author.openreview }}">
+            <i class="fas fa-fw fa-link" aria-hidden="true"></i> OpenReview
+          </a>
+        </li>
+      {% endif %}
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i>Academia</a></li>
       {% endif %}
