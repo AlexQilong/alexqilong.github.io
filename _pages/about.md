@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Qilong (Alex) Zhao"
 author_profile: true
 ---
 
