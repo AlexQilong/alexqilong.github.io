@@ -2,22 +2,16 @@
 permalink: /
 title: "Qilong (Alex) Zhao"
 author_profile: true
-
 ---
 
-Hi! I am **Qilong (Alex) Zhao**, an M.S. student in Computer Science at **Emory University**.  
-My research focuses on:
+Hi! I'm **Qilong (Alex) Zhao**, an M.S. student in Computer Science at **Emory University**.  
+I am advised by **Prof. Liang Zhao** (Emory) and collaborate with **Prof. Biwei Huang** and **Dr. Fan Feng** (UCSD).
 
-- **World Models**  
-- **Vision–Language Models**
-- **Medical Imaging**
+My research focuses on **world models**, **vision–language models**, and **medical imaging**, with a consistent interest in **interpretability** and understanding how models represent and reason about the world.
 
-I am advised by **Prof. Liang Zhao** (Emory) and collaborate closely with **Prof. Biwei Huang** and **Dr. Fan Feng** (UCSD). 
-I work on medical VLMs and world models, with a consistent focus on interpretability.
-I am actively seeking PhD positions for Fall 2026.
-
----
+## 🎯 PhD Applications  
+**I am actively seeking PhD positions for Fall 2026** in areas related to  
+**world models, representation learning, interpretability, and decision-making.**
 
 ## Contact
-- Email: qilong.zhao@emory.edu  
-
+- Email: qilong.zhao@emory.edu
