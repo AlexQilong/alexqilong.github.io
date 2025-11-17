@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Qilong (Alex) Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "MSCS@Emory"
   location         : "Atlanta, GA"
   employer         : "Emory University"
   uri              : # URL
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/qilong-zhao-434963281/"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
