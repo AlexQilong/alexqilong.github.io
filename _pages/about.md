@@ -3,7 +3,7 @@ permalink: /
 author_profile: true
 ---
 
-## Qilong (Alex) Zhao
+## About
 
 I am an M.S. student in Computer Science at Emory University.  
 I am advised by **Prof. Liang Zhao** (Emory) and collaborate with **Prof. Biwei Huang** and **Dr. Fan Feng** at UCSD.
