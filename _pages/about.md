@@ -4,7 +4,7 @@ author_profile: true
 ---
 
 
-I am an M.S. student in Computer Science at Emory University.  
+Yo! I am an M.S. student in Computer Science at Emory University.  
 I am advised by **Prof. Liang Zhao** (Emory) and collaborate with **Prof. Biwei Huang** and **Dr. Fan Feng** at UCSD.
 
 My research studies **world models**, **vision–language models**, and **3D medical imaging**, with a unifying emphasis on **interpretability**—how learned representations support reasoning, prediction, and decision-making.
