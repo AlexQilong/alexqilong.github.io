@@ -23,7 +23,7 @@ My research studies **world models**, **vision–language models**, and **3D med
 <span style="color:gray">Paper · Code · Project (coming soon)</span>
 
 
-**Why Only 3D-for-3D? 2D-Guided Supervision for 3D Vision–Language Models**  
+**Why Only 3D-for-3D? 2D-Guided Supervision for 3D Medical Vision–Language Models**  
 **Qilong Zhao**, Ziyuan Qin, Liang Zhao  
 *Under review, 2025*  
 <span style="color:gray">Paper · Code (coming soon)</span>
