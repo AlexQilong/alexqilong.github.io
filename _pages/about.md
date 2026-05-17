@@ -10,7 +10,7 @@ I am advised by **Prof. Liang Zhao** (Emory) and collaborate with **Prof. Biwei 
 My research studies **world models**, **vision–language models**, and **3D medical imaging**, with a unifying emphasis on **interpretability**—how learned representations support reasoning, prediction, and decision-making.
 
 
-> **PhD applications (Fall 2026).**  
+> **PhD application**  
 > I am actively seeking PhD positions in world models, representation learning, interpretability, and decision-making systems.
 
 
@@ -25,7 +25,7 @@ My research studies **world models**, **vision–language models**, and **3D med
 
 **Why Only 3D-for-3D? 2D-Guided Supervision for 3D Medical Vision–Language Models**  
 **Qilong Zhao**, Ziyuan Qin, Liang Zhao  
-*Under review, 2025*  
+*KDD 2026*    
 <span style="color:gray">Paper · Code (coming soon)</span>
 
 
